@@ -8,17 +8,13 @@ Majoring in Mathematics and Software Engineering
 ## Research Interests
 
 - Medical AI
-- Sleep Stage Classification
-- Biosignal Analysis
 - Deep Learning for Healthcare
 
 ---
 
-## Current Projects
+## Current Project
 
-- PSG-based sleep stage classification using deep learning
-- Uncertainty-aware modeling with Monte Carlo Dropout
-- Biosignal analysis for medical AI applications
+- Segmentation of tall cells in Papillary Thyroid Carcinoma (TC-PTC) histopathology images using deep learning.
 
 ---
 
@@ -42,12 +38,20 @@ Majoring in Mathematics and Software Engineering
 
 ## GitHub Projects
 
-- Sleep Stage Classification using PSG data
-- Medical AI research projects
-- Deep learning experiments for biosignal analysis
+**1. Stock Price Forecasting with VMD-LSTM and Concrete Dropout**
+
+Research on stock price prediction using Variational Mode Decomposition (VMD) and LSTM with Concrete Dropout for uncertainty estimation.
+
+**2. Colon Region Classification using Optical Flow**
+
+Computer vision research on colon region classification using optical flow from both real colonoscopy videos and the Mikoto colon simulator for real-time inference.
+
+**3. Sleep Stage Classification using TinySleepNet**
+
+Sleep stage classification using PSG data with TinySleepNet, including model confidence estimation and a human-in-the-loop framework for clinical decision support.
 
 ---
 
 ## Contact
 
-Email: your_email@example.com
+Email: dajini1090@gmail.com
